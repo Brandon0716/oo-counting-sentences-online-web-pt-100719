@@ -7,7 +7,7 @@ class String
   end
 
   def question?
-  "I am super nervous to have my family on a plane with out me, but should i be?".end_with?(".")
+  "I am super nervous to have my family on a plane with out me, but should i be.".end_with?("?")
   end
 
   def exclamation?
